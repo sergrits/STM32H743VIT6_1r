@@ -1,0 +1,6 @@
+../Core/Src/st7735.c:12:13:ST7735_WriteCommand	16	static
+../Core/Src/st7735.c:24:13:ST7735_WriteData	16	static
+../Core/Src/st7735.c:29:6:ST7735_Init	16	static
+../Core/Src/st7735.c:43:6:ST7735_SetAddressWindow	32	static
+../Core/Src/st7735.c:53:6:ST7735_FillScreen	24	static
+../Core/Src/st7735.c:63:6:ST7735_DrawString	24	static
